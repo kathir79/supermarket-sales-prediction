@@ -1,28 +1,30 @@
-Super Market Sales Prediction
+#Super Market Sales Prediction
+
 This project aims to predict super market sales using various machine learning algorithms implemented in a Jupyter Notebook. The models used include LinearRegression, DecisionTreeRegressor, RandomForestRegressor, and GradientBoostingRegressor.
 
-Table of Contents
+###Table of Contents
 Description
 Installation
 Usage
 Models and Evaluation
 Contributing
 License
-Description
+###Description
 The “Super Market Sales Prediction” project is a machine learning-based application that predicts super market sales based on various features. This project demonstrates the use of multiple regression algorithms to make sales predictions.
 
-Installation
+###Installation
 Clone the repository to your local machine:
 
-`git clone https://github.com/kathir79/supermarket-sales-prediction.git`
+`git clone https://github.com/kathir79/supermarket-sales-prediction.git📋`
+
 
 Navigate to the project directory:
 cd supermarket-sales-prediction
 
-Install the required dependencies:
+###Install the required dependencies:
 pip install -r requirements.txt
 
-Usage
+###Usage
 Open the Jupyter Notebook:
 jupyter notebook
 
