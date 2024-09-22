@@ -17,11 +17,11 @@ The "Super Market Sales Prediction" project is a machine learning-based applicat
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/kathir79/super-market-sales-prediction.git
+    git clone https://github.com/kathir79/supermarket-sales-prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd super-market-sales-prediction
+    cd supermarket-sales-prediction
     ```
 3. Install the required dependencies:
     ```bash
